@@ -17,7 +17,7 @@ Este guia apresenta uma abordagem estruturada para a criação de aplicativos do
 
 ## <a name="introduction"></a>Introdução
 
-A nuvem está mudando a maneira como os aplicativos são criados. Em vez de monolitos, aplicativos são decompostos em serviços descentralizados menores. Esses serviços se comunicam por meio de APIs, ou usando o serviço de mensagens ou eventos assíncronos. Os aplicativos são dimensionadaos horizontalmente, adicionando novas instâncias de acordo com a demanda.
+A nuvem está mudando a maneira como os aplicativos são criados. Em vez de monolitos, aplicativos são decompostos em serviços descentralizados menores. Esses serviços se comunicam por meio de APIs, ou usando o serviço de mensagens ou eventos assíncronos. Os aplicativos são dimensionados horizontalmente, adicionando novas instâncias de acordo com a demanda.
 
 Essas tendências trazem novos desafios. O estado do aplicativo é distribuído. As operações são feitas em paralelo e de maneira assíncrona. O sistema como um todo deve ser resiliente quando ocorrem falhas. As implantações devem ser automatizadas e previsíveis. Monitoramento e telemetria são essenciais para obter informações sobre o sistema. O Guia de Arquitetura do Aplicativo do Azure foi criado para ajudá-lo a entender melhor essas mudanças.
 
